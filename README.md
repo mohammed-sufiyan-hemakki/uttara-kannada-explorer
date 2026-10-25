@@ -26,6 +26,10 @@ Uttara Kannada Explorer is a college project developed to present local tourism 
 ## 📸 Screenshots
 
 Project screenshots will be added here to demonstrate the website's interface and functionality.
+## Screenshots
+
+### Homepage
+![Uttara Kannada Explorer Homepage](screenshots/home.png)
 
 ## ⚙️ Local Setup
 
